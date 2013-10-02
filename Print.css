@@ -1,0 +1,13 @@
+body { background: white; font-size: 10pt; font-family:Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif; }
+
+img { display: none; }
+
+# h2.titletop { text-align:left; font-size:14pt; font-variant:normal; text-decoration:none; line-height:1em; }
+
+# h1.title { text-align:center; font-size:16pt; }
+
+ul { margin:0px; padding:0; list-style:disc; }
+li { margin-left:20px; margin-bottom:5px; padding:0;  }
+
+#header, #nav { display: none; }
+#wrap {width: auto; margin:-25pt; border:0; }
